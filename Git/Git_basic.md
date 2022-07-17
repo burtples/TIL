@@ -25,6 +25,11 @@
   - remote repo와 동일한 버전으로 다운
   - remote 정보가 필요
   - 이미 git으로 관리되고 있어야함 (.git파일 존재)
+- `git remote`
+  - `git remote -v` 원격저장소 목록
+  - `git remote add <name> <url>` 원격 저장소 추가
+  - `git remote rm <name>`	원격 저장소 제거
+
 
 ## Git 명령어 FLOW
 
