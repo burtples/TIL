@@ -40,7 +40,7 @@
 
 - `git add <파일명>`
 - `git commit -m "새로운 메시지"`
-- `git status (저장소 파일 추가 기록)`
+- `git status`  ==저장소 변경사항 확인==
 - `git remote add origin <주소>`
 - `git push origin master`
 
